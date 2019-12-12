@@ -1,5 +1,7 @@
 * [Introduction](./Introduction.md)
 
+# Slate v0.47.8
+
 ## Walkthroughs
 
 * [Installing Slate](./walkthroughs/installing-slate.md)
