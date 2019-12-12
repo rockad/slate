@@ -1,6 +1,6 @@
-* [Introduction](./Introduction.md)
-
 # Slate v0.47.8
+
+* [Introduction](./Introduction.md)
 
 ## Walkthroughs
 
